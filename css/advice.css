@@ -1,0 +1,18 @@
+.advice {
+	padding-bottom: 63px;
+}
+
+.item-list__title {
+	font-weight: 700;
+}
+
+
+
+.list__item:not(:last-child) {
+	margin-bottom: 53px;
+
+}
+
+.item-list__text:not(:last-child) {
+	margin-bottom: 53px;
+}

@@ -1,0 +1,7 @@
+.stages {
+	padding-bottom: 86px;
+}
+
+.stages__text:not(:last-child) {
+	margin-bottom: 55px;
+}

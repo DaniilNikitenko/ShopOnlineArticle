@@ -1,0 +1,28 @@
+.header {
+	padding-top: 100px;
+	padding-bottom: 50px;
+}
+
+.header__container {}
+
+.header__title {
+	font-size: 50px;
+	font-weight: 700;
+	color: #2d2d2d;
+	margin-bottom: 58px;
+}
+
+.header__text {}
+
+.header__text:not(:last-child) {
+	margin-bottom: 52px;
+}
+
+.header__list {
+	padding-left: 17px;
+}
+
+.header__item {
+	color: #525252;
+	font-size: 16px;
+}
