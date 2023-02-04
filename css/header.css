@@ -10,8 +10,6 @@
 	margin-bottom: 58px;
 }
 
-.header__text {}
-
 .header__text:not(:last-child) {
 	margin-bottom: 52px;
 }
