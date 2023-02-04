@@ -1,18 +1,17 @@
-.advice {
-	padding-bottom: 63px;
-}
-
-.item-list__title {
+.title {
 	font-weight: 700;
 }
 
 
-
-.list__item:not(:last-child) {
-	margin-bottom: 53px;
-
+.daily {
+	padding-bottom: 48px;
 }
 
-.item-list__text:not(:last-child) {
-	margin-bottom: 53px;
+
+.daily__text {
+	margin-bottom: 63px;
+}
+
+.daily__text p:first-child {
+	margin-bottom: 52px;
 }

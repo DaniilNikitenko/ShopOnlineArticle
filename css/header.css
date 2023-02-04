@@ -1,14 +1,12 @@
 .header {
 	padding-top: 100px;
-	padding-bottom: 50px;
-}
+	padding-bottom: 48px;
 
-.header__container {}
+}
 
 .header__title {
 	font-size: 50px;
 	font-weight: 700;
-	color: #2d2d2d;
 	margin-bottom: 58px;
 }
 
@@ -20,6 +18,7 @@
 
 .header__list {
 	padding-left: 17px;
+	margin-bottom: 50px;
 }
 
 .header__item {

@@ -12,20 +12,21 @@ body {
 	min-height: 100%;
 }
 
-.page {
-	flex: 1 1 auto;
-}
-
 [class*="__container"] {
 	max-width: 1760px;
 	margin: 0 auto;
 }
 
-.list,
-.stages__text {
+.before-purchase p,
+.first-time p,
+.daily p,
+.second p,
+.last p {
 	width: 1095px;
 }
 
-.image__container {
-	padding-bottom: 49px;
+.before-purchase,
+.first-time,
+.second {
+	padding-bottom: 52px;
 }
