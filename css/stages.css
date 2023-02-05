@@ -1,3 +1,7 @@
-.last {
+.stage:not(:last-child) {
+	padding-bottom: 53px;
+}
+
+.stage:last-child {
 	padding-bottom: 86px;
 }

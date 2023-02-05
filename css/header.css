@@ -16,10 +16,13 @@
 
 .header__list {
 	padding-left: 17px;
-	margin-bottom: 50px;
 }
 
 .header__item {
-	color: #525252;
 	font-size: 16px;
+	color: #525252;
+}
+
+.header__link {
+	color: #525252;
 }

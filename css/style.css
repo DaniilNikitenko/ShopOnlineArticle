@@ -12,21 +12,12 @@ body {
 	min-height: 100%;
 }
 
-[class*="__container"] {
-	max-width: 1760px;
+.article {
+	max-width: 1775px;
 	margin: 0 auto;
+	padding: 0 15px;
 }
 
-.before-purchase p,
-.first-time p,
-.daily p,
-.second p,
-.last p {
-	width: 1095px;
-}
-
-.before-purchase,
-.first-time,
-.second {
-	padding-bottom: 52px;
+.container {
+	max-width: 1095px;
 }

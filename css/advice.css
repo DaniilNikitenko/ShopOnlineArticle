@@ -1,17 +1,16 @@
-.title {
-	font-weight: 700;
+.advice__image {
+	display: block;
+	margin-bottom: 48px;
 }
 
-
-.daily {
-	padding-bottom: 48px;
+.advice__text:not(.advice__text_indent) {
+	padding-bottom: 53px;
 }
 
-
-.daily__text {
+.advice__text_indent {
 	margin-bottom: 63px;
 }
 
-.daily__text p:first-child {
-	margin-bottom: 52px;
+.advice__title {
+	font-weight: 700;
 }
