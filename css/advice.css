@@ -3,14 +3,24 @@
 	margin-bottom: 48px;
 }
 
-.advice__text:not(.advice__text_indent) {
+
+
+.advice:not(:last-child) {
 	padding-bottom: 53px;
 }
 
-.advice__text_indent {
-	margin-bottom: 63px;
+.advice:last-child {
+	padding-bottom: 86px;
 }
 
 .advice__title {
 	font-weight: 700;
+}
+
+.advice__stage:not(:last-child) {
+	margin-bottom: 53px;
+}
+
+.advice__text:nth-child(odd):not(:first-of-type) {
+	margin-bottom: 63px;
 }
