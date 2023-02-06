@@ -21,6 +21,10 @@
 	margin-bottom: 53px;
 }
 
+.advice__text:nth-last-child(n+2) {
+	margin-bottom: 53px;
+}
+
 .advice__text:nth-child(odd):not(:first-of-type) {
 	margin-bottom: 63px;
 }
